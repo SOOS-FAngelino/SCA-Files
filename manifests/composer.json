@@ -1,5 +1,5 @@
 {
-  "name": "composer.json",
+  "name": "acme/phpproj",
   "version": "1.0.0",
   "type": "project",
   "description": "Demo project to test PHP pre-processor.",
@@ -12,6 +12,9 @@
   },
   "require-dev": {
 	"phpunit/phpunit": "^9.5.9",
-	"symfony/yaml": "~5.4.0"
+	"symfony/yaml": "~5.4.0",
+	"thorsten/phpmyfaq": "3.1.9",
+	"mediawiki/core": "1.39.0"
+	
   }
 }
