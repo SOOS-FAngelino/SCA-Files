@@ -1,5 +1,5 @@
 {
-  "name": "acme/phpproj",
+  "name": "composer.json",
   "version": "1.0.0",
   "type": "project",
   "description": "Demo project to test PHP pre-processor.",
